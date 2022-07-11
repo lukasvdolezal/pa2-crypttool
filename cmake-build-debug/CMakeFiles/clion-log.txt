@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /Users/lukasdolezal/Documents/fit/ubuntu/CLionProjects/CryptTool Select CMakeLists.txt
